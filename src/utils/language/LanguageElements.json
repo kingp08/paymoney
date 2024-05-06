@@ -1,0 +1,13 @@
+{
+  "title": "Select Language",
+  "value": [
+    {"name": "English", "shortName": "en"},
+    {"name": "Español", "shortName": "es"},
+    {"name": "عربى", "shortName": "ar"},
+    {"name": "Français", "shortName": "fr"},
+    {"name": "Português", "shortName": "pt"},
+    {"name": "Русский", "shortName": "ru"},
+    {"name": "Türkçe", "shortName": "tr"},
+    {"name": "中文 (繁體)", "shortName": "zh"}
+  ]
+}

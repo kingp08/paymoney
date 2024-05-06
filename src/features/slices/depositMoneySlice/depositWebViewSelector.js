@@ -1,0 +1,1 @@
+export const depositWebViewConfirmSelector = state => state.depositConfirm;
